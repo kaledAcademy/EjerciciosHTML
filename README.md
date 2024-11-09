@@ -1,6 +1,6 @@
-# Bienvenido a Kaled Academy
+# 🌟 Bienvenido a Kaled Academy 🌟
 
-¡Bienvenido a Kaled Academy! Este proyecto contiene una serie de ejercicios básicos de HTML para ayudarte a aprender y practicar tus habilidades.
+¡Bienvenido a Kaled Academy! 🚀 Este proyecto contiene una serie de ejercicios básicos de HTML para ayudarte a aprender y practicar tus habilidades en el desarrollo web. 🌐
 
 ## Instrucciones para ejecutar el proyecto y los tests
 
@@ -16,10 +16,12 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
 
 ```sh
 npm install
+```
 
 ### Ejecución de los tests
 
 Para ejecutar los tests, utiliza el siguiente comando:
 ```sh
 npm test
+```
 
