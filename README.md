@@ -31,7 +31,7 @@ npm test
 2. Abre el archivo index.html.
 3. Asegúrate de que el archivo contiene la estructura básica de HTML:
 
-<!DOCTYPE html>
+```html
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -42,4 +42,4 @@ npm test
     <h1>Hola Mundo</h1>
 </body>
 </html>
-
+```
