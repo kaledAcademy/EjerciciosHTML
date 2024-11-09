@@ -43,3 +43,34 @@ npm test
 </body>
 </html>
 ```
+### Ejercicio 2: Estructura básica de HTML con contenido adicional
+
+1. Navega al directorio `01-basico/basico-02`.
+2. Abre el archivo `index.html`.
+3. Asegúrate de que el archivo contiene la siguiente estructura básica de HTML con contenido adicional:
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Básico 2</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Kaled Academy</h1>
+    </header>
+    <main>
+        <h2>Introducción a HTML</h2>
+        <p>HTML es el lenguaje estándar para crear páginas web.</p>
+        <ul>
+            <li>HTML significa HyperText Markup Language</li>
+            <li>HTML describe la estructura de una página web</li>
+            <li>HTML consiste en una serie de elementos</li>
+            <li>Los elementos HTML le dicen al navegador cómo mostrar el contenido</li>
+        </ul>
+    </main>
+</body>
+</html>
+```
