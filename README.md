@@ -25,3 +25,21 @@ Para ejecutar los tests, utiliza el siguiente comando:
 npm test
 ```
 
+### Ejercicio 1: Estructura básica de HTML
+
+1. Navega al directorio 01-basico/basico-01.
+2. Abre el archivo index.html.
+3. Asegúrate de que el archivo contiene la estructura básica de HTML:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Básico</title>
+</head>
+<body>
+    <h1>Hola Mundo</h1>
+</body>
+</html>
+
