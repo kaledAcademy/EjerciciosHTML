@@ -16,3 +16,10 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
 
 ```sh
 npm install
+
+### Ejecución de los tests
+
+Para ejecutar los tests, utiliza el siguiente comando:
+```sh
+npm test
+
