@@ -6,11 +6,21 @@
 
 ### Requisitos previos
 
-Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
+1. Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
+2. Tener Instalado [Visual Estudio Code](https://code.visualstudio.com/) en tu sistema.
+3. Tener Instalado [GIT](https://git-scm.com/) 
+4. Dale click en el boton Verde que dice <>Code en Github.
+5. Copia la ruta donde dice https://github.com/kaledAcademy/EjerciciosHTML.git
+5. Luego crea una carpeta en local con el nombre ejerciciosHTML, abrelo con VSCode.
+6. Abre la terminal y escribes
+```sh
+git clone https://github.com/kaledAcademy/EjerciciosHTML.git
+```
+7. Valida que se hayan bajado los archivos de GitHub.
 
 ### Instalación
 
-1. Clona este repositorio en tu máquina local.
+
 2. Navega al directorio del proyecto.
 3. Instala las dependencias necesarias ejecutando el siguiente comando:
 
