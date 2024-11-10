@@ -1,4 +1,4 @@
-# 🌟 Bienvenido a Kaled Academy 🌟
+# 👨‍💻 Bienvenido a Kaled Academy 👨‍💻
 
 ¡Bienvenido a Kaled Academy! 🚀 Este proyecto contiene una serie de ejercicios básicos de HTML para ayudarte a aprender y practicar tus habilidades en el desarrollo web. 🌐
 
@@ -73,4 +73,32 @@ npm test
     </main>
 </body>
 </html>
+```
+### En todos los demas Ejercicios apartir del ejercicios 2,3,4,5
+1. Navega a cada directorio y busca cada ejercicio 01-02 .
+2. Abre el archivo `index.html`.
+3. Asegúrate de que el archivo debe contener siempre la extructura  básica de HTML con contenido adicional, siguiendo cada test.
+
+### Ayuda para resolver cada ejercicio
+1. Mirar la informacion que muestra el test.
+2. Analiza los 2 primeros test y revisa como pasaron.
+2. Examina cada peticion en la carpeta test/**-**-01.test.js y test/**-**-02.test.js y valida cada requerimiento que esta pidiendo que sea colocado en el archivo index.html del ejercicio.
+
+```javascript
+describe('Debe contener un formulario', () => {
+    test('El archivo debe tener <form>', () => {
+        expect(html).toMatch(/<form>/);
+    });
+});
+
+describe('Debe contener una etiqueta label para el nombre', () => {
+    test('El archivo debe tener <label for="nombre">Nombre:</label>', () => {
+        expect(html).toMatch(/<label for="nombre">Nombre:<\/label>/);
+    });
+});
+ describe('Debe contener un campo de texto para el nombre', () => {
+        test('El archivo debe tener <input type="text" id="nombre" name="nombre">', () => {
+            expect(html).toMatch(/<input type="text" id="nombre" name="nombre">/);
+        });
+    });
 ```
