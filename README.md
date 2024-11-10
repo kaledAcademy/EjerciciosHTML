@@ -1,6 +1,6 @@
 # 👨‍💻 Bienvenido a Kaled Academy 👨‍💻
 
-¡Bienvenido a Kaled Academy! 🚀 Este proyecto contiene una serie de ejercicios básicos de HTML para ayudarte a aprender y practicar tus habilidades en el desarrollo web. 🌐
+¡Bienvenidos! 🚀 Este proyecto contiene una serie de ejercicios básicos de HTML para ayudarte a aprender y practicar tus habilidades en el desarrollo web. 🌐
 
 ## Instrucciones para ejecutar el proyecto y los tests
 
