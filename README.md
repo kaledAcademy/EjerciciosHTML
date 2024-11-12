@@ -17,6 +17,15 @@
 git clone https://github.com/kaledAcademy/EjerciciosHTML.git
 ```
 7. Valida que se hayan bajado los archivos de GitHub.
+8. Creas una rama con tu nombre y añades html como ves a continuacion
+le coloco mi nombre(lgsalinas) + HTML  = lgsalinasHTML.
+9. Utiliza el comando git checkout -b nombre-de-la-rama main
+
+```sh
+C:\EjerciciosHTML>git checkout -b lgsalinasHTML main
+Switched to a new branch 'lgsalinasHTML'
+C:\EjerciciosHTML>
+```
 
 ### Instalación
 
